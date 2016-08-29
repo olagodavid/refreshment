@@ -1,2 +1,2 @@
 # refreshment
-Personal(non moringa)
+A Personal project.
